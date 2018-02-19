@@ -1,4 +1,5 @@
 # This game is virtual reality one
+![virtual reality](./LITTAI.gif)
 
 * A game played while actually manipulating things on a table
 What you operate can be customized in real time
